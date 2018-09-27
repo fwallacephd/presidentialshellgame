@@ -32,7 +32,7 @@ body {
   text-align: center;
 }
 
-#name-button, #tryagain-button {
+#name-button, #tryagain-button, #reset-button {
  font-size: 25px;
  width: 20%;
  background-color: black;

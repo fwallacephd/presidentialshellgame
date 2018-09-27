@@ -55,4 +55,13 @@ $(".cards").on("click", ".face-card", function(){
   });
 });
 
+//Reset
+$("#reset-button").on("click", function(){
+  nameScore = 0;
+  computerScore = 0;
+  $("#text").text("Go ahead. Play again.");
+  $("#card1").attr("src", "Seal.png");
+  $("#card2").attr("src", "Seal.png");
+  $("#card3").attr("src", "Seal.png");
+})
 
