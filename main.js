@@ -2,7 +2,7 @@
 let nameScore = 0;
 let computerScore = 0;
 let name;
-const logo = "seal.png";
+const logo = "Seal.png";
 
 
 //Say Hi to the Player
